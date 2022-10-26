@@ -1,0 +1,22 @@
+.fcontainer {
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.fitem{
+    border-radius: 100%;
+    padding-left: 20px;
+    padding-top: 20px;
+    border: 2px solid grey;
+    background-color: white;
+    font-display: black;
+    height: 122px;
+    width: 122px;
+    margin: 12px;
+
+}
+
+.fitem.fitem:hover{
+    border: 2px solid rgb(98, 0, 255);
+}
