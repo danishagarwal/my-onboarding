@@ -1,3 +1,10 @@
+# Working of the files
+
+Components folder consists of everything important inside of src.
+Different componenets created for different pages.  
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
